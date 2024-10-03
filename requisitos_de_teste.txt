@@ -1,0 +1,5 @@
+Realizar um sistema de cadastro  de clinete para no futuro disparar email de acordo com a idade;
+- O cliente deve ter nome, idade, email
+- O cliente nao pode ser menor de idade
+- O email cadastro deve ser valido 
+- O nomoe do clinete deve ter no minimo 3 caracterers 
